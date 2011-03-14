@@ -1,0 +1,13 @@
+Software based on so-called genetic algorithms is "showing up
+in every way".
+Genetic algorithms are widely used for different applications.
+Sheer hardware power ought to tell---some day. Way back in
+1982, the legendary programmer Kenneth Thompson stages a
+landmark experiment that determined exactly how much better
+a chess program would play if given the opportunity to look
+further ahead. (Thompson, a researcher at Bell Laboratories
+in Murray Hill, N.J., was a designer of Unix.) Thompson pitted
+his then-top chess machine, Belle, against itself in hundreds
+of games, calculating its play on one side of the board a
+half-move deeper than its play on the other side.
+This test2try 4ever to ever.

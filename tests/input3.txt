@@ -1,0 +1,44 @@
+A meaningful approach to classifying
+object-oriented metrics can start with
+examining the underlying phenomena
+of object-oriented system development.
+There is general consensus in academe
+and practice that developing systems
+using the object-oriented paradigm requires
+new development approaches. This
+stream of thought can be traced to
+Brooks [1987], who argued for eliminating
+accidental (software) complexity
+and controlling essential complexity by
+matching the method and process to
+the application. With object-orientation,
+the accidental complexity can be minimized
+and the essential complexity can
+be better controlled if a process that is
+appropriate for this paradigm can be followed.
+Over the last few years, a number
+of researchers and practitioners have
+discussed and prescribed object-oriented
+software development approaches (e.g.
+Rational [2001]; Baudoin and Hollowell
+[1996]; De Champeaux [1997]; Booch
+[1994]; Jacobson et al. [1992]). One can
+discern two recurring themes in these
+approaches (also see Mili et al. [1995]):
+(a) an iterative-incremental process, and
+(b) reuse-based development.
+
+More broadly, a software development
+process is a model for “the progression
+from identification of a need in some application
+domain to the creation of a software
+product that responds to that need”
+[Blum 1994, p. 83]. It identifies development
+tasks, establishes expectations for
+intermediate deliverables, and suggests
+review and evaluation criteria. The two recurring
+themes identified above change, in
+several ways, the form and shape of development
+process for object-oriented systems,
+compared to the traditional development
+processes.
